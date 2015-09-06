@@ -19,8 +19,8 @@ I am a Freelancer Web Developer focusing on front-end development. I design and 
 
 ## Contact
 
-* http://www.shreyasg.com
-* email: shreyas.gaonkar@yahoo.com
+* Website: http://www.shreyasg.com
+* Email: shreyas.gaonkar@yahoo.com
 * Twitter: [@shreyasgaonkar](https://twitter.com/shreyasgaonkar "Shreyas Gaonkar on twitter")
 * Feel free to contact us for any information or suggestion [here](mailto:shreyas.gaonkar@yahoo.com)
 
