@@ -7,8 +7,8 @@ I often use console.log to check if the JavaScript is working properly and it ca
 
 ```javascript
 var names = ['...',
-...];
-console.log(winner(minvalue, maxvalue));
+...]; //include names here
+console.log(winner(minvalue, maxvalue)); //for debugging
 ```
 ## Credits
 Travis Neilson
