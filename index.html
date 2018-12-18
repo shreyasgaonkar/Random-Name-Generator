@@ -1,22 +1,27 @@
-<head runat="server">
-    <title>Random Name Generator</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <!-- CSS -->
-    <link href="style.css" rel="stylesheet" />
-    <!-- Javascript -->
-    <script src="names.js"></script>
-    <!-- Favicon -->
-    <link rel="shortcut icon" href="favicon.ico" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <head runat="server">
+      <title>Random Name Generator</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1" />
+      <link href="style.css" rel="stylesheet" />
+
+      <link rel="shortcut icon" href="favicon.ico" />
+  </head>
 </head>
 <body>
-    <div class="winner-content">
-        <div class="winner">
-            The winner is ...<span class="winner-name">???</span>
-            <br />
-            <a href='#' onclick='location.reload(true); return false;'>
-            <img src = "refresh.png" alt="refresh" title="Hit for refresh!" />
-          </a>
-        </div>
-    </div>
+
+  <div class="winner-content">
+      <div class="winner">
+          The winner is ...<span class="winner-name">...</span>
+          <br />
+          <a href="#/" onclick="location.reload(true); return false;">
+          <img src = "refresh.png" alt="refresh" title="Hit for refresh!" />
+        </a>
+      </div>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"   integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="   crossorigin="anonymous"></script>
+  <script src="script.js"></script>
 </body>
 </html>
